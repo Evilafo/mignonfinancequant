@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="mignonfinancequant",
-    version="0.1.0",
+    version="0.1.1",
     author="Evilafo",
     author_email="evil2846@gmail.com",
     description="Une bibliothèque Python pour les calculs de finance quantitative",
